@@ -1,8 +1,8 @@
 # -*- mode: mandoku-view -*-
-#+TITLE: 黃帝陰符經十眞集解
-#+DATE: 2015-08-28 23:37:47
+#+TITLE: 黃帝陰符經十真集解
+#+DATE: 2015-08-28 23:37:48
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: JUAN 0
 
 
